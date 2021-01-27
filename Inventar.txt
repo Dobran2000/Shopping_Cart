@@ -1,0 +1,2 @@
+tricou,20
+hanorac,100
